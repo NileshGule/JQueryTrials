@@ -61,6 +61,7 @@
     <Content Include="AttributeContainsSelector.htm" />
     <Content Include="AttributeContainsWordSelector.html" />
     <Content Include="AttributeEndsWithSelector.html" />
+    <Content Include="AttributeEqualsSelector.html" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
