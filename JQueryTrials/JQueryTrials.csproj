@@ -59,6 +59,8 @@
     <Content Include="AnimatedSelector.html" />
     <Content Include="AttributeContainsPrefixSelector.html" />
     <Content Include="AttributeContainsSelector.htm" />
+    <Content Include="AttributeContainsWordSelector.html" />
+    <Content Include="AttributeEndsWithSelector.html" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
