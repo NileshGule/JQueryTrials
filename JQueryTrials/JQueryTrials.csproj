@@ -57,6 +57,8 @@
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="AnimatedSelector.html" />
+    <Content Include="AttributeContainsPrefixSelector.html" />
+    <Content Include="AttributeContainsSelector.htm" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />

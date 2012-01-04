@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Attribute Contains Prefix Selector</title>
+    <style>
+        a
+        {
+            display: inline-block;
+        }
+    </style>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+</head>
+<body>
+    <a href="About.aspx" hreflang="en-us">About</a> <a href="AnimatedSelector.html" hreflang="en">
+        Animated Selector</a> <a href="Default.aspx" hreflang="english">will not be outlined</a>
+    <script>
+        $('a[hreflang|="en"]').css('border', '3px dotted green');
+    </script>
+</body>
+</html>
