@@ -1,0 +1,5 @@
+E:\Nilesh\Projects\JQueryTrials\JQueryTrials\bin\JQueryTrials.dll
+E:\Nilesh\Projects\JQueryTrials\JQueryTrials\bin\JQueryTrials.pdb
+E:\Nilesh\Projects\JQueryTrials\JQueryTrials\obj\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\JQueryTrials\JQueryTrials\obj\Debug\JQueryTrials.dll
+E:\Nilesh\Projects\JQueryTrials\JQueryTrials\obj\Debug\JQueryTrials.pdb
